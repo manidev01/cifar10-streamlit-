@@ -1,0 +1,11 @@
+# CIFAR-10 Image Classification using Streamlit
+
+This project deploys a pre-trained CIFAR-10 image classification model using Streamlit.
+
+## Steps to Run
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone <your-repo-url>
+   cd cifar10-streamlit
